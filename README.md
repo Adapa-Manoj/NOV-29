@@ -12,3 +12,5 @@
 ***both bold and italic type of font style***
 
 [Google](https://www.google.co.in/)
+
+![RRR](https://static.toiimg.com/photo/msid-83710788/83710788.jpg?92781)

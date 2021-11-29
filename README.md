@@ -11,4 +11,4 @@
 
 ***both bold and italic type of font style***
 
-.[Google](https://www.google.co.in/)
+[Google](https://www.google.co.in/)
